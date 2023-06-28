@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[5] {"da", "ghgh", "hello", "world", "teftelka"};
+﻿string[] array1 = new string[5] {"da", "ghg", "hello", "world", "teftelka"};
 string[] array2 = new string[array1.Length];
 void SokrashenieArray(string[] array1, string[] array2)
 {
